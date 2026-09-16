@@ -59,4 +59,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ultron1101&show_icons=true&locale=en&layout=compact" alt="ultron1101" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ultron1101&" alt="ultron1101" /></p>
